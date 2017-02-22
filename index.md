@@ -35,4 +35,4 @@ Number of desktops per hypervisor during a normal day
 + Alberto Larraz Dalmases
 
 ### Support/Contact
-Please send us and email to isard.vdi@gmail.com if you have any questions
+Please send us and email to isard.vdi@gmail.com if you have any questions 
