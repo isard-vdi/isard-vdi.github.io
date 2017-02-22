@@ -3,6 +3,7 @@ description: VDI deployment based on KVM Linux. Users create and share desktops 
 google_analytics: 
 show_downloads: true
 future: true
+timezone: Europe/Madrid
 theme: jekyll-theme-cayman
 
 gems:
