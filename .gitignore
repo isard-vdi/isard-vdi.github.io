@@ -1,0 +1,5 @@
+Gemfile.lock
+.sass-cache
+start_www.sh
+Gemfile
+_site/
