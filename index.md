@@ -2,21 +2,20 @@
 VDI deployment based on KVM Linux. Users create and share desktops with any OS and  software through templating in seconds.The Isard engine orchestrates hypervisors and focuses on optimizing desktop virtualization performance.
 
 ## Screenshots
-User desktops (two at the same time)
+User desktops
 ![Desktops](content/img/isard_desktops.png)
 
-Number of desktops per hypervisor during a normal day
+User templates
 ![Templates](content/img/isard_templates.png)
 
-Number of desktops per hypervisor during a normal day
+User uploaded iso files
 ![Isos](content/img/isard_isos.png)
 
-Number of desktops per hypervisor during a normal day
+User quotas for desktops, templates and isos
 ![Quotas](content/img/isard_quotas.png)
 
-Number of desktops per hypervisor during a normal day
+Number of desktops running in our real system per hypervisor
 ![Load](content/img/isard_dayload.png)
-
 
 
 ## Features
@@ -50,7 +49,7 @@ Number of desktops per hypervisor during a normal day
 
 #### Success use case
 
-We are currently developing new features and continuosly testing it in a real production environtment with more than 900 users in system using it.
+We are currently developing new features and continuosly testing it in a real production environtment with more than 900 users and more than 1400 virtual desktops in system using it.
 
 ### Authors
 + Josep Maria Viñolas Auquer
