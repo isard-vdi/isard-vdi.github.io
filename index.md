@@ -57,4 +57,4 @@ We are currently developing new features and continuosly testing it in a real pr
 + Alberto Larraz Dalmases
 
 ### Support/Contact
-Please send us and email to isard.vdi@gmail.com if you have any questions
+Please send us and email to isard.vdi@gmail.com if you have any questions 
