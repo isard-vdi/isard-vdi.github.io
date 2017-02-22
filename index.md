@@ -19,16 +19,38 @@ Number of desktops per hypervisor during a normal day
 
 
 
-#### Features
+## Features
 ##### Benefits to users
-+ Instant VDI creation and viewer access
++ Linux and Windows virtual desktops
++ Template creation from desktop snapshot
++ Template shareable with other users and groups
++ Web interface real time events for improved user experience
++ Spice, HTML5, VNC and rDesktop viewers available
++ USB devices redirection in spice viewer
++ Kiosk mode. Create disposable desktops
++ Multiple esoure permission levels
++ Quotas for desktops, running desktops, templates and isos
 
 ##### Benefits to administrators
-+ Create multiple hypervisor pools
++ Not tied to any propietary hardware.
++ Not tied to any hypervisor/nas operating system
++ Manage thousands of desktops from a single dashboard
++ User access management with database, ldap, oauth2, ...
++ Quotas at roles, categories, groups and user levels
++ Granular permissions for all resources
++ Customizable distributed storage for better performance
++ Two level cache system
++ Kiosk mode, with customized templates and menu based on networks
++ Vlan2 Desktops interface mapping at user interface level
++ High end nginx performance proxy ready
++ Available cluster database backend
++ Continuous development and test in real production environtment
 
 #### Future lines
 
 #### Success use case
+
+We are currently developing new features and continuosly testing it in a real production environtment with more than 900 users in system using it.
 
 ### Authors
 + Josep Maria Viñolas Auquer
