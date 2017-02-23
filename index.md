@@ -23,7 +23,7 @@ Number of desktops running in our real system per hypervisor
 + Linux and Windows virtual desktops
 + Template creation from desktop snapshot
 + Template shareable with other users and groups
-+ Web interface real time events for improved user experience
++ Web interface real time events for improved user experience [![Sample](content/img/isard_dayload)](content/img/isard_dayload.png)
 + Spice, HTML5, VNC and rDesktop viewers available
 + USB devices redirection in spice viewer
 + Kiosk mode. Create disposable desktops
@@ -32,17 +32,20 @@ Number of desktops running in our real system per hypervisor
 
 ##### Benefits to administrators
 + Not tied to any propietary hardware.
-+ Not tied to any hypervisor/nas operating system
++ Not tied to any hypervisor/nas distro
++ Desktops small disk footprint (we handle over 1400 desktops in 5TB)
++ Hypervisors can be grouped in pools 
 + Manage thousands of desktops from a single dashboard
 + User access management with database, ldap, oauth2, ...
 + Quotas at roles, categories, groups and user levels
 + Granular permissions for all resources
 + Customizable distributed storage for better performance
 + Two level cache system
-+ Kiosk mode, with customized templates and menu based on networks
-+ Vlan2 Desktops interface mapping at user interface level
++ Kiosk mode, with customized templates and menus based on networks
++ Vlan mapping per virtual desktop
 + High end nginx performance proxy ready
 + Available cluster database backend
++ Grafana module included
 + Continuous development and test in real production environtment
 
 #### Future lines
