@@ -50,7 +50,7 @@ Number of desktops running in our real system per hypervisor
 
 #### Future lines
 
-#### Success use case
+#### Success story
 
 We are currently developing new features and continuosly testing it in a real production environtment with more than 900 users and more than 1400 virtual desktops in system using it.
 
