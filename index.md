@@ -3,18 +3,23 @@ VDI deployment based on KVM Linux. Users create and share desktops with any OS a
 
 ## Screenshots
 User desktops
+
 ![Desktops](content/img/isard_desktops.png)
 
 User templates
+
 ![Templates](content/img/isard_templates.png)
 
 User uploaded iso files
+
 ![Isos](content/img/isard_isos.png)
 
 User quotas for desktops, templates and isos
+
 ![Quotas](content/img/isard_quotas.png)
 
 Number of desktops running in our real system per hypervisor
+
 ![Load](content/img/isard_dayload.png)
 
 
