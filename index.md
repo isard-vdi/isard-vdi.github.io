@@ -5,27 +5,7 @@ IsardVDI directly manages KVM Linux hypervisors using libvirt.
 
 A web application allows agile deployments of desktops and manage hypervisors.
 
-## Screenshots
-User desktops
-
-![Desktops](content/img/isard_desktops.png)
-
-User templates
-
-![Templates](content/img/isard_templates.png)
-
-User uploaded iso files
-
-![Isos](content/img/isard_isos.png)
-
-User quotas for desktops, templates and isos
-
-![Quotas](content/img/isard_quotas.png)
-
-Number of desktops running in our real system per hypervisor
-
-![Load](content/img/isard_dayload.png)
-
+Use only for testing purposes. Work in progress. 
 
 ## Features
 ##### Benefits to users
@@ -57,7 +37,34 @@ Number of desktops running in our real system per hypervisor
 + Grafana module included
 + Continuous development and test in real production environtment
 
-#### Future lines
+## Screenshots
+User desktops
+
+![Desktops](content/img/isard_desktops.png)
+
+User templates
+
+![Templates](content/img/isard_templates.png)
+
+User uploaded iso files
+
+![Isos](content/img/isard_isos.png)
+
+User quotas for desktops, templates and isos
+
+![Quotas](content/img/isard_quotas.png)
+
+Number of desktops running in our real system per hypervisor
+
+![Load](content/img/isard_dayload.png)
+
+
+#### Release notes:
+
+2016-02-26: v0.1 First Beta Release 
+
+#### Future lines and roadmap
+
 
 #### Success story
 
