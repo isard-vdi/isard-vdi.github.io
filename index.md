@@ -1,9 +1,9 @@
 # Isard**VDI**
-Isard**VDI** was born with the goal of creating a free software alternative to solutions such as Citrix XenDesktops or VMware Horizon in deploying virtual desktops.
+Isard**VDI** was born with the aim of creating a free software alternative to privative virtual desktops solutions such as Citrix XenDesktops or VMware Horizon.
 
 Isard**VDI** directly manages KVM Linux hypervisors using libvirt.
 
-A web application allows agile deployments of desktops and manage hypervisors.
+A web application allows agile desktop deployments and centralized hypervisors management.
 
 Use only for testing purposes. Work in progress. 
 
@@ -65,10 +65,24 @@ Number of desktops running in our real system per hypervisor
 
 #### Future lines and roadmap
 
+We are currently developing new features and continuosly testing it in a real production environtment.
+Remote organization access and intensive 3D rendering (among other features) are being tested.
 
 #### Success story
 
-We are currently developing new features and continuosly testing it in a real production environtment with more than 900 users and more than 1400 virtual desktops in system using it.
+Our organization bet two years ago for our proposal to implement a system of virtual desks. We evaluated the existing systems in the market and verified that they were not perfectly adapted to the educational environment.
+
+It was then when we created a proof of concept with KVM in linux that turned out to be successful.
+
+In September of 2015 we managed to put into operation a first version of the software with an infrastructure fully assembled and optimized by us, since the costs had to be extremely reduced compared to the existing commercial systems.
+
+Teachers and students soon adopted this solution as it provided them with a greater degree of autonomy and agility. Only with the mouth-ear we manage to reach the spectacular numbers of use that we have in our organization.
+
++ Our current production environtment has more than 800 users and 1400 virtual desktops. 
++ We have teachers and students using it in a day basis seamlesly in classrooms around buildings.
++ We managed to maintain a very low costs
+
+In 2016 we focused all our efforts on a solid and versatile software that materialized in IsardVDI, a software thought from the requirements of the educational system. 
 
 ### Authors
 + Josep Maria Viñolas Auquer
