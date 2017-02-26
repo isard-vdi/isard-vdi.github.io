@@ -1,9 +1,9 @@
 # Isard**VDI**
-Isard**VDI** was born with the aim of creating a free software alternative to privative virtual desktops solutions such as Citrix XenDesktops or VMware Horizon.
+Isard**VDI** was born with the aim of creating a free software alternative to privative virtual desktop solutions such as Citrix XenDesktops or VMware Horizon.
 
 Isard**VDI** directly manages KVM Linux hypervisors using libvirt.
 
-A web application allows agile desktop deployments and centralized hypervisors management.
+A web application that allows agile desktop deployments and centralized hypervisors management.
 
 Use only for testing purposes. Work in progress. 
 
